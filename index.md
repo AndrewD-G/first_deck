@@ -1,0 +1,46 @@
+---
+title       : BraVE new World
+subtitle    : From the days when we new little about cars and brakes
+author      : Andrew
+job         : Developer
+framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : tomorrow      # 
+widgets     : []            # {mathjax, quiz, bootstrap}
+mode        : selfcontained # {standalone, draft}
+knit        : slidify::knit2slides
+---
+
+## Reactive Car Speeds you need to know
+# The start of the pitch
+
+Since 1886 and the invention of gas powered cars by Karl Benz, the world has been provided  with improved transport.  
+
+With the increase in speed as a result of this type of car that is still in production today have also come increases in danger.
+
+Read on about the safety changes in the 1920's
+
+--- .class #id 
+
+## Slide 3 - The R interaction
+
+
+```
+## [1] 15
+```
+The value of x is 15 which is totally irrelevant, but does show that we can put r chunks in slidify.
+
+What we need to  know is that in the 1920s the brakes went from being 2 wheel rear mechanical type to 4 wheel brakes.
+
+---
+## Slide 4 - The Teaser
+So now that we know about the improve in brakes we can now use the shiny app at https://adgshiny16.shinyapps.io/ReactiveCarSpeeds/
+to see how many feet it takes to stop at a given mph speed.
+
+--- 
+## Slide 5 - The catch
+With this product there is no catch, so just hand me your credit card details and be off with you!
+
+# The End
+
+
